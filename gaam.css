@@ -13137,3 +13137,25 @@
 .ali-itm-inherit{align-items:inherit;}
 .ali-itm-initial{align-items:initial;}
 .ali-itm-unset{align-items:unset;}
+
+/* justyfi-content ------- */
+
+.justycon-baseline{justify-content: baseline;}
+.justycon-center{justify-content:center;}
+.justycon-end{justify-content:end;}
+.justycon-first_baseline{justify-content:first baseline;}
+.justycon-flex-end{justify-content:flex-end;}
+.justycon-flex-start{justify-content:flex-start;}
+.justycon-last_baseline{justify-content:last baseline;}
+.justycon-left{justify-content:left;}
+.justycon-right{justify-content:right;}
+.justycon-safe{justify-content:safe;}
+.justycon-space-around{justify-content:space-around;}
+.justycon-space-between{justify-content:space-between;}
+.justycon-space-evenly{justify-content:space-evenly;}
+.justycon-start{justify-content:start;}
+.justycon-stretch{justify-content:stretch;}
+.justycon-unsafe{justify-content:unsafe;}
+.justycon-inherit{justify-content:inherit;}
+.justycon-initial{justify-content:initial;}
+.justycon-unset{justify-content:unset;}
