@@ -13118,3 +13118,22 @@
 .dis-inherit{display:inherit;}
 .dis-initial{display:initial;}
 .dis-unset{display:unset;}
+
+/* align-items in ---- */
+
+.ali-itm-center{align-items: center;}
+.ali-itm-baseline{align-items:baseline;}
+.ali-itm-end{align-items:end;}
+.ali-itm-first_baseline{align-items:first baseline;}
+.ali-itm-flex-end{align-items:flex-end;}
+.ali-itm-flex-start{align-items:flex-start;}
+.ali-itm-last_baseline{align-items:last baseline;}
+.ali-itm-normal{align-items:normal;}
+.ali-itm-safe{align-items:safe;}
+.ali-itm-self-end{align-items:self-end;}
+.ali-itm-start{align-items:start;}
+.ali-itm-stretch{align-items:stretch;}
+.ali-itm-unsafe{align-items:unsafe;}
+.ali-itm-inherit{align-items:inherit;}
+.ali-itm-initial{align-items:initial;}
+.ali-itm-unset{align-items:unset;}
